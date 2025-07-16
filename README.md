@@ -1,5 +1,5 @@
 # Ploopy-Knob-80
-A bottom-case mod for the Ploopy Knob so that it can mount on a Glove80 keyboard. Current file is for the left half of the Glove80 only. Model is based on the original files from both Ploopy (https://github.com/ploopyco/knob) and Glove80 (https://www.moergo.com/pages/glove80-ergonomic-keyboard-customization?srsltid=AfmBOooGfX56Mnf0L8u05VyCDyuUStRs71EcAYHDeNLZX2QJ-hW2fVRI#:~:text=the%20controller%20PCB.-,Sidecar,-The%20underside%20of).
+A bottom-case mod for the Ploopy Knob so that it can mount on a Glove80 keyboard. Model is based on the original files from both Ploopy (https://github.com/ploopyco/knob) and Glove80 (https://www.moergo.com/pages/glove80-ergonomic-keyboard-customization?srsltid=AfmBOooGfX56Mnf0L8u05VyCDyuUStRs71EcAYHDeNLZX2QJ-hW2fVRI#:~:text=the%20controller%20PCB.-,Sidecar,-The%20underside%20of).
 
 Unlike the original Ploopy files, this is just the bottom half of the Knob. The Ploopy repository has the full 3D files.
 
